@@ -1,3 +1,5 @@
-# Machine-Learning-OMS---RandomOptimization-
-Please refer the readme file.
-Assignment 2 - OMSCS
+#########################################################################################
+# Submission By: Aditya Bhushan
+#########################################################################################
+
+This project leverages various Optimization Techniques used in Machine Learning Research today!
